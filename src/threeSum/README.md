@@ -35,3 +35,6 @@ That means num[b] is too small and we have to increment b (b++).
 
 To tackle the uniqueness of triplet, we have to make sure: </br>
 1: no duplicate num[b] exists. That means after case 1, we have to make sure num[b'] != num[b] where b' is the new value after increment.
+
+Time Complexity: O(n^2) where n is the length of the array.
+Space Complexity: O(1).
