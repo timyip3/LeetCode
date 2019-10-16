@@ -21,6 +21,7 @@
 - [Q19. Remove Nth Node From End of List](/src/removeNthFromEnd)
 - [Q20. Valid Parentheses](/src/validParentheses)
 - [Q21. Merge Two Sorted Lists](/src/merge2SortedLists)
+- [Q22. Generate Parentheses](/src/generateParentheses)
 - [Q24. Swap Nodes in Pairs](/src/swapNodesPairs)
 - [Q25. Reverse Nodes in k-Group](/src/reverseKGrp)
 - [Q26. Remove Duplicates from Sorted Array](/src/removeDuplicates)
